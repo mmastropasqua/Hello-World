@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-My first repository
+All tea is hot leaf juice!
